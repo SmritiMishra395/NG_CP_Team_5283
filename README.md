@@ -94,4 +94,4 @@ Configure Postgres/MongoDB
 Run migrations (if applicable)
 
 🧪 Demo
-
+Check the Screenshots of the project in the "ss of project VendorIQ" in this repository.
